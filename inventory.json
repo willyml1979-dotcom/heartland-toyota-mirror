@@ -1,6 +1,6 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-09-25T07:19:14",
+  "generated_at": "2026-09-25T07:23:05",
   "vehicle_count": 40,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -230,7 +230,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/9454887e2444.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:48:57",
+      "last_verified": "2026-09-25T07:20:21",
       "price": 79506.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -241,8 +241,19 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00d63222f64a.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:49:07",
+      "last_verified": "2026-09-25T07:20:34",
       "price": 42699.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026ToyotaCorolla CrossOn Order",
+      "stock": "2W4024",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/293a60a5792d.html",
+      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14639862",
+      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14639862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T07:19:56",
+      "price": 43908.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -252,7 +263,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/fef125e94d5c.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14787258",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14787258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:49:18",
+      "last_verified": "2026-09-25T07:20:45",
       "price": 43237.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -263,7 +274,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/f89562f15dfd.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-crown-signia/14133835",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-crown-signia/14133835?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:49:29",
+      "last_verified": "2026-09-25T07:20:57",
       "price": 64929.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -274,7 +285,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/35e66b09da6d.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:49:40",
+      "last_verified": "2026-09-25T07:21:06",
       "price": 62727.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -285,7 +296,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/30b316ae2e1e.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-prius/14300906",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-prius/14300906?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:49:53",
+      "last_verified": "2026-09-25T07:21:18",
       "price": 48809.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -296,30 +307,19 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/64e257bf4510.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640285",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640285?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:50:04",
+      "last_verified": "2026-09-25T07:21:30",
       "price": 63346.0,
       "price_currency": "CAD",
       "condition": "new"
     },
     {
-      "name": "2026ToyotaRAV4Pending Deal",
-      "stock": "2W3980",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/9deff1a0cbf9.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14291108",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14291108?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:50:16",
-      "price": 55772.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026ToyotaRAV4Pending Deal",
-      "stock": "2W4010",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/30a0b4b0c458.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14451511",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14451511?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:50:28",
-      "price": 53968.0,
+      "name": "2026ToyotaRAV4 Plug-In HybridPending Deal",
+      "stock": "2W4025",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/6e52756eb579.html",
+      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357",
+      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T07:20:08",
+      "price": 62072.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -329,7 +329,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/42e5022d6c79.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627235",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627235?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:50:38",
+      "last_verified": "2026-09-25T07:21:40",
       "price": 45072.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -340,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/adbc4ef3cedc.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627238",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627238?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:50:50",
+      "last_verified": "2026-09-25T07:21:51",
       "price": 44614.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -351,7 +351,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/1c64bfc23c3b.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14639973",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14639973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:51:03",
+      "last_verified": "2026-09-25T07:22:06",
       "price": 56702.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -362,7 +362,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/d6d3935bc46a.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-double-cab-at/14639751",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-double-cab-at/14639751?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:51:15",
+      "last_verified": "2026-09-25T07:22:16",
       "price": 60702.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -373,7 +373,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00bc1da0c588.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14378794",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14378794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:51:26",
+      "last_verified": "2026-09-25T07:22:29",
       "price": 80829.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -384,7 +384,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/922f69740c38.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14489932",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14489932?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:51:37",
+      "last_verified": "2026-09-25T07:22:39",
       "price": 80744.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -395,7 +395,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/857f1401941b.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14283809",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14283809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:51:50",
+      "last_verified": "2026-09-25T07:22:51",
       "price": 69624.0,
       "price_currency": "CAD",
       "condition": "new"
