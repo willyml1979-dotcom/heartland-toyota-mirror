@@ -1,6 +1,6 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-09-26T08:46:19",
+  "generated_at": "2026-09-26T08:49:45",
   "vehicle_count": 40,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -230,7 +230,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/9454887e2444.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:20:21",
+      "last_verified": "2026-09-26T08:48:01",
       "price": 79506.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -241,7 +241,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00d63222f64a.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:20:34",
+      "last_verified": "2026-09-26T08:48:12",
       "price": 42699.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -252,7 +252,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/293a60a5792d.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14639862",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14639862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:19:56",
+      "last_verified": "2026-09-26T08:47:38",
       "price": 43908.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -263,7 +263,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/fef125e94d5c.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14787258",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14787258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:20:45",
+      "last_verified": "2026-09-26T08:48:23",
       "price": 43237.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -274,7 +274,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/f89562f15dfd.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-crown-signia/14133835",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-crown-signia/14133835?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:20:57",
+      "last_verified": "2026-09-26T08:48:34",
       "price": 64929.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -285,7 +285,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/35e66b09da6d.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:21:06",
+      "last_verified": "2026-09-26T08:48:46",
       "price": 62727.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -296,7 +296,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/30b316ae2e1e.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-prius/14300906",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-prius/14300906?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:21:18",
+      "last_verified": "2026-09-26T08:48:57",
       "price": 48809.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -307,7 +307,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/64e257bf4510.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640285",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640285?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:21:30",
+      "last_verified": "2026-09-26T08:49:08",
       "price": 63346.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -318,7 +318,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/6e52756eb579.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:20:08",
+      "last_verified": "2026-09-26T08:47:48",
       "price": 62072.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -329,7 +329,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/42e5022d6c79.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627235",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627235?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:21:40",
+      "last_verified": "2026-09-26T08:49:19",
       "price": 45072.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -340,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/adbc4ef3cedc.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627238",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14627238?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:21:51",
+      "last_verified": "2026-09-26T08:49:30",
       "price": 44614.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -351,7 +351,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/1c64bfc23c3b.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14639973",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14639973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T07:22:06",
+      "last_verified": "2026-09-26T08:49:41",
       "price": 56702.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -417,7 +417,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/170208988ae0.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14451508",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14451508?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:52:15",
+      "last_verified": "2026-09-26T08:47:03",
       "price": 87459.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -428,7 +428,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/0baf1bf1f4b5.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14455615",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14455615?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:52:28",
+      "last_verified": "2026-09-26T08:47:14",
       "price": 91464.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -439,7 +439,7 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4ec0062552a6.html",
       "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14640222",
       "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14640222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T06:52:39",
+      "last_verified": "2026-09-26T08:47:25",
       "price": 69624.0,
       "price_currency": "CAD",
       "condition": "new"
