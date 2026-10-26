@@ -1,541 +1,310 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-10-24T22:56:54",
-  "vehicle_count": 41,
+  "generated_at": "2026-10-25T22:52:00",
+  "vehicle_count": 43,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "2013RAM1500",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/46540e9ae7c1.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2013-ram-1500/14874308",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2013-ram-1500/14874308?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:44:24",
-      "price": 22900.0,
-      "price_currency": "CAD",
-      "odometer_km": 95404,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 22900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2013YamahaV STAR CLASSIC",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/5e53254003b1.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2013-yamaha-v-star-classic/11878097",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2013-yamaha-v-star-classic/11878097?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:00:57",
-      "price": 6500.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 6500.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2014BuickEnclave",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/4aaad142af9e.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2014-buick-enclave/14559714",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2014-buick-enclave/14559714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:01:09",
-      "price": 12900.0,
-      "price_currency": "CAD",
-      "odometer_km": 181500,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 12900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2016FordF-150",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/83df81502d8a.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2016-ford-f-150/14629398",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2016-ford-f-150/14629398?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:01:59",
-      "price": 22900.0,
-      "price_currency": "CAD",
-      "odometer_km": 190094,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 22900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2016HondaCivic",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/4bd04dedff6f.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2016-honda-civic/14493463",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2016-honda-civic/14493463?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:02:30",
-      "price": 20400.0,
-      "price_currency": "CAD",
-      "odometer_km": 114722,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 20400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018FordExplorer",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/761424fccf6d.html",
+      "condition": "used",
+      "price": 20700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018Mercedes-BenzC-Class",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/159cd445c29e.html",
+      "condition": "used",
+      "price": 21900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019DodgeCharger",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/210a028015a8.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2019-dodge-charger/14756930",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2019-dodge-charger/14756930?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:45:11",
-      "price": 19900.0,
-      "price_currency": "CAD",
-      "odometer_km": 59803,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 19900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019ToyotaRAV4",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/89d9216d9081.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14473048",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14473048?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:45:34",
-      "price": 25900.0,
-      "price_currency": "CAD",
-      "odometer_km": 178022,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 25900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019ToyotaRAV4",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/86c0ed1ec4e8.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14935952",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2019-toyota-rav4/14935952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:44:34",
-      "price": 28500.0,
-      "price_currency": "CAD",
-      "odometer_km": 97798,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 28500.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020FordF-150",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/1d2eeb915bcc.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2020-ford-f-150/14924642",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2020-ford-f-150/14924642?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:44:44",
-      "price": 29900.0,
-      "price_currency": "CAD",
-      "odometer_km": 145997,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 29900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020RAM1500",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/d1ceedcfc567.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2020-ram-1500/12913055",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2020-ram-1500/12913055?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:45:42",
-      "price": 36500.0,
-      "price_currency": "CAD",
-      "odometer_km": 154279,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 36500.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021HondaCR-V",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/bda0f7fa9cb7.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2021-honda-cr-v/14125828",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2021-honda-cr-v/14125828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:46:40",
-      "price": 30800.0,
-      "price_currency": "CAD",
-      "odometer_km": 104994,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 30800.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021RAM1500 Classic",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/9d0e34210e13.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2021-ram-1500-classic/14591868",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2021-ram-1500-classic/14591868?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:46:50",
-      "price": 35900.0,
-      "price_currency": "CAD",
-      "odometer_km": 33970,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 35900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021ToyotaTacoma",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/a58f29b68879.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2021-toyota-tacoma/14919407",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2021-toyota-tacoma/14919407?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:46:20",
-      "price": 45900.0,
-      "price_currency": "CAD",
-      "odometer_km": 115912,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 45900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023ToyotaRAV4 Prime",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/4ad24f599630.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2023-toyota-rav4-prime/14370223",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2023-toyota-rav4-prime/14370223?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T16:59:25",
-      "price": 43900.0,
-      "price_currency": "CAD",
-      "odometer_km": 69133,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 43900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023ToyotaTundra",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/95f781cef8d0.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2023-toyota-tundra/9942983",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2023-toyota-tundra/9942983?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:45:55",
-      "price": 69500.0,
-      "price_currency": "CAD",
-      "odometer_km": 30569,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 69500.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024ToyotaCorolla Cross",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/c2211e91b1ea.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2024-toyota-corolla-cross/13435077",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2024-toyota-corolla-cross/13435077?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T16:59:36",
-      "price": 31500.0,
-      "price_currency": "CAD",
-      "odometer_km": 67844,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 31500.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024ToyotaCorolla",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/6f14b2647b78.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2024-toyota-corolla/14063718",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2024-toyota-corolla/14063718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T16:59:47",
-      "price": 24300.0,
-      "price_currency": "CAD",
-      "odometer_km": 78410,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 24300.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024ToyotaTundra CrewMax Limited",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/0fdac38d4198.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2024-toyota-tundra-crewmax-limited/14203037",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2024-toyota-tundra-crewmax-limited/14203037?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:46:09",
-      "price": 55400.0,
-      "price_currency": "CAD",
-      "odometer_km": 106990,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 55400.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaGrand Highlander",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/a88ba9999558.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-grand-highlander/14935955",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-grand-highlander/14935955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:44:14",
-      "price": 61900.0,
-      "price_currency": "CAD",
-      "odometer_km": 12894,
       "condition": "used",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 61900.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025ToyotaTundra CrewMax Limited",
-      "stock": "2W3799",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/9454887e2444.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2025-toyota-tundra-crewmax-limited/12838345?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T17:06:22",
-      "price": 79506.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 79506.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026Toyota4Runner",
-      "stock": "2W4033",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/22bcf97f5645.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-4runner/14882582",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-4runner/14882582?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:12:52",
-      "price": 74559.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 74559.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026Toyota4RunnerPending Deal",
-      "stock": "2W4038",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4c83a28b8c7f.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-4runner/14957702",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-4runner/14957702?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:11:15",
-      "price": 69351.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 69351.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaCorolla Cross",
-      "stock": "2W4022",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00d63222f64a.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla-cross/14627229?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T17:06:32",
-      "price": 42699.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 42699.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaCorolla",
-      "stock": "1W1341",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/880316459fcd.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla/14639988",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-corolla/14639988?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:13:03",
-      "price": 30569.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 30569.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaGR Corolla",
-      "stock": "1W1338",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/35e66b09da6d.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-gr-corolla/14378785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:10:55",
+      "condition": "new",
       "price": 62727.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaRAV4 Plug-In Hybrid",
-      "stock": "2W4025",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/6e52756eb579.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14640357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T17:06:07",
-      "price": 62072.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 62072.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaRAV4 Plug-In Hybrid",
-      "stock": "2W4037",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/bc4a7b29104c.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14957834",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4-plug-in-hybrid/14957834?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:11:26",
+      "condition": "new",
       "price": 60687.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaRAV4Pending Deal",
-      "stock": "2W4035",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4e58e2aa02af.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14796726",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14796726?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:55:26",
-      "price": 50068.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 50068.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaRAV4Pending Deal",
-      "stock": "2W4034",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4b5ffbb11fa7.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14802636",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-rav4/14802636?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:13:41",
+      "condition": "new",
       "price": 49103.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaSienna",
-      "stock": "2W4027",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/25f587f3dbd5.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-sienna/14639724",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-sienna/14639724?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:54:20",
-      "price": 77609.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 77609.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaSienna",
-      "stock": "2W4029",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/88104eae511e.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-sienna/14724033",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-sienna/14724033?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:54:30",
-      "price": 55468.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 55468.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTacoma Double Cab ATPending Deal",
-      "stock": "2W4045",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/350c8905e584.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-double-cab-at/15000620",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-double-cab-at/15000620?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:10:13",
-      "price": 54983.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 54983.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTACOMA HV DOUBLE CABPending Deal",
-      "stock": "2W4040",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/32f402f418b2.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-hv-double-cab/14957690",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tacoma-hv-double-cab/14957690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:10:29",
+      "condition": "new",
       "price": 68733.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra Hybrid",
-      "stock": "2W3993",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00bc1da0c588.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14378794",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14378794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:55:39",
-      "price": 80829.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 80829.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra Hybrid",
-      "stock": "2W4005",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/922f69740c38.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14489932",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra-hybrid/14489932?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:55:47",
+      "condition": "new",
       "price": 80744.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra",
-      "stock": "2W3981",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/857f1401941b.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14283809",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14283809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:55:59",
-      "price": 69624.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 69624.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra",
-      "stock": "2W3989",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/bc304efb9f64.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14378839",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14378839?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:56:09",
+      "condition": "new",
       "price": 67264.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra",
-      "stock": "2W4004",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/0baf1bf1f4b5.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14455615",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14455615?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:56:29",
+      "condition": "new",
       "price": 91464.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra",
-      "stock": "2W4016",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4ec0062552a6.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14640222",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14640222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:56:39",
-      "price": 69624.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 69624.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026ToyotaTundra",
-      "stock": "2W4041",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/71fb44b3e87a.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14802714",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2026-toyota-tundra/14802714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T17:11:49",
-      "price": 81923.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 81923.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027ToyotaLand Cruiser",
-      "stock": "2W4026",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/cbe0e3539b65.html",
-      "source_url": "https://heartlandtoyota.ca/inventory/2027-toyota-land-cruiser/14826737",
-      "dealer_url": "https://heartlandtoyota.ca/inventory/2027-toyota-land-cruiser/14826737?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T22:55:03",
-      "price": 91770.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Williams Lake",
-      "province": "BC"
+      "price": 91770.0,
+      "price_currency": "CAD"
     }
   ]
 }
