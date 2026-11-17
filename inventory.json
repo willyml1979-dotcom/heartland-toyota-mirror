@@ -1,7 +1,7 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-11-16T18:58:47",
-  "vehicle_count": 44,
+  "generated_at": "2026-11-16T19:05:01",
+  "vehicle_count": 51,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -167,13 +167,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026Toyota4Runner",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/22bcf97f5645.html",
-      "condition": "new",
-      "price": 74559.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026Toyota4RunnerPending Deal",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4c83a28b8c7f.html",
       "condition": "new",
@@ -188,10 +181,31 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaCorolla",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/880316459fcd.html",
+      "name": "2026ToyotaCorolla Cross",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/236ff0db5cca.html",
       "condition": "new",
-      "price": 30569.0,
+      "price": 42993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaCorolla Cross",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/e883efe84d23.html",
+      "condition": "new",
+      "price": 37113.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaCorolla Cross",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/7ceecd0ad55b.html",
+      "condition": "new",
+      "price": 38988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaCorolla",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/df4cde72d804.html",
+      "condition": "new",
+      "price": 30280.0,
       "price_currency": "CAD"
     },
     {
@@ -216,17 +230,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaRAV4Pending Deal",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4e58e2aa02af.html",
+      "name": "2026ToyotaRAV4 Plug-In Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/201d03642f30.html",
       "condition": "new",
-      "price": 50068.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaRAV4Pending Deal",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4b5ffbb11fa7.html",
-      "condition": "new",
-      "price": 49103.0,
+      "price": 63323.0,
       "price_currency": "CAD"
     },
     {
@@ -244,10 +251,31 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026ToyotaTacoma Double Cab AT",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/8344b52417fd.html",
+      "condition": "new",
+      "price": 53517.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026ToyotaTacoma Double Cab ATPending Deal",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/350c8905e584.html",
       "condition": "new",
       "price": 54983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacoma Double Cab AT",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/dff03d2a0cd3.html",
+      "condition": "new",
+      "price": 61121.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTacoma Double Cab AT",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/127d351e8fce.html",
+      "condition": "new",
+      "price": 53228.0,
       "price_currency": "CAD"
     },
     {
@@ -258,10 +286,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTundra Hybrid",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00bc1da0c588.html",
+      "name": "2026ToyotaTundra CrewMax Limited",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/c2819f2c348b.html",
       "condition": "new",
-      "price": 80829.0,
+      "price": 78103.0,
       "price_currency": "CAD"
     },
     {
@@ -307,10 +335,31 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027ToyotaLand Cruiser",
+      "name": "2026ToyotaTundra",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/10ade27eadf5.html",
+      "condition": "new",
+      "price": 69928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026ToyotaTundra",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/13a126ca8254.html",
+      "condition": "new",
+      "price": 68144.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027ToyotaLand CruiserPending Deal",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/cbe0e3539b65.html",
       "condition": "new",
       "price": 91770.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027ToyotaLand Cruiser",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/2a77718627db.html",
+      "condition": "new",
+      "price": 85045.0,
       "price_currency": "CAD"
     }
   ]
