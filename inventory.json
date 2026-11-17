@@ -1,7 +1,7 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-10-25T23:01:10",
-  "vehicle_count": 43,
+  "generated_at": "2026-11-16T18:58:47",
+  "vehicle_count": 44,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -41,10 +41,24 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017Toyota4X4 TUNDRA DBL CAB SR 5.7L",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/2eefebe82395.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018FordExplorer",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/761424fccf6d.html",
       "condition": "used",
       "price": 20700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018HyundaiSanta Fe",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/5302f2e01987.html",
+      "condition": "used",
+      "price": 14900.0,
       "price_currency": "CAD"
     },
     {
@@ -55,24 +69,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019DodgeCharger",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/210a028015a8.html",
-      "condition": "used",
-      "price": 19900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019ToyotaRAV4",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/89d9216d9081.html",
       "condition": "used",
       "price": 25900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019ToyotaRAV4",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/86c0ed1ec4e8.html",
-      "condition": "used",
-      "price": 28500.0,
       "price_currency": "CAD"
     },
     {
@@ -143,6 +143,13 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/0fdac38d4198.html",
       "condition": "used",
       "price": 55400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026KiaCarnival",
+      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/7af3c5f17039.html",
+      "condition": "used",
+      "price": 41900.0,
       "price_currency": "CAD"
     },
     {
