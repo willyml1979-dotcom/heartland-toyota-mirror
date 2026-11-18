@@ -1,7 +1,7 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-11-17T19:07:26",
-  "vehicle_count": 45,
+  "generated_at": "2026-11-17T19:16:30",
+  "vehicle_count": 42,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -175,13 +175,6 @@
     },
     {
       "name": "2026ToyotaRAV4 Plug-In Hybrid",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/6e52756eb579.html",
-      "condition": "new",
-      "price": 62072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaRAV4 Plug-In Hybrid",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/bc4a7b29104c.html",
       "condition": "new",
       "price": 60687.0,
@@ -216,13 +209,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTacoma Double Cab ATPending Deal",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/350c8905e584.html",
-      "condition": "new",
-      "price": 54983.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026ToyotaTacoma Double Cab AT",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/dff03d2a0cd3.html",
       "condition": "new",
@@ -237,7 +223,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026ToyotaTACOMA HV DOUBLE CABPending Deal",
+      "name": "2026ToyotaTACOMA HV DOUBLE CAB",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/32f402f418b2.html",
       "condition": "new",
       "price": 68733.0,
@@ -276,13 +262,6 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/0baf1bf1f4b5.html",
       "condition": "new",
       "price": 91464.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTundra",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4ec0062552a6.html",
-      "condition": "new",
-      "price": 69624.0,
       "price_currency": "CAD"
     },
     {

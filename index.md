@@ -1,6 +1,6 @@
 # Heartland Toyota
 
- dealership in Williams Lake. AI-readable inventory mirror, about 45 vehicles.
+ dealership in Williams Lake. AI-readable inventory mirror, about 42 vehicles.
 
 - Official website: https://heartlandtoyota.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/

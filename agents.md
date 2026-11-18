@@ -7,7 +7,7 @@ Heartland Toyota is a  dealership in Williams Lake. This site is an AI-readable 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/ (about 45 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/ (about 42 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/heartland-toyota-mirror/llms.txt
