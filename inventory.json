@@ -1,7 +1,7 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-11-16T19:05:01",
-  "vehicle_count": 51,
+  "generated_at": "2026-11-17T19:07:26",
+  "vehicle_count": 45,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -48,24 +48,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018FordExplorer",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/761424fccf6d.html",
-      "condition": "used",
-      "price": 20700.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018HyundaiSanta Fe",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/5302f2e01987.html",
       "condition": "used",
       "price": 14900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018Mercedes-BenzC-Class",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/159cd445c29e.html",
-      "condition": "used",
-      "price": 21900.0,
       "price_currency": "CAD"
     },
     {
@@ -97,27 +83,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021RAM1500 Classic",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/9d0e34210e13.html",
-      "condition": "used",
-      "price": 35900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021ToyotaTacoma",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/a58f29b68879.html",
-      "condition": "used",
-      "price": 45900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023ToyotaRAV4 Prime",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/4ad24f599630.html",
-      "condition": "used",
-      "price": 43900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023ToyotaTundra",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/95f781cef8d0.html",
       "condition": "used",
@@ -129,13 +94,6 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/c2211e91b1ea.html",
       "condition": "used",
       "price": 31500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024ToyotaCorolla",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/used/6f14b2647b78.html",
-      "condition": "used",
-      "price": 24300.0,
       "price_currency": "CAD"
     },
     {
