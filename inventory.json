@@ -1,7 +1,7 @@
 {
   "dealership": "Heartland Toyota",
-  "generated_at": "2026-11-18T19:12:22",
-  "vehicle_count": 41,
+  "generated_at": "2026-11-18T19:22:19",
+  "vehicle_count": 38,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -118,13 +118,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026Toyota4RunnerPending Deal",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/4c83a28b8c7f.html",
-      "condition": "new",
-      "price": 69351.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026ToyotaCorolla Cross",
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/00d63222f64a.html",
       "condition": "new",
@@ -164,13 +157,6 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/35e66b09da6d.html",
       "condition": "new",
       "price": 62727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaRAV4 Plug-In Hybrid",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/bc4a7b29104c.html",
-      "condition": "new",
-      "price": 60687.0,
       "price_currency": "CAD"
     },
     {
@@ -255,13 +241,6 @@
       "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/0baf1bf1f4b5.html",
       "condition": "new",
       "price": 91464.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026ToyotaTundra",
-      "url": "https://willyml1979-dotcom.github.io/heartland-toyota-mirror/new/71fb44b3e87a.html",
-      "condition": "new",
-      "price": 81923.0,
       "price_currency": "CAD"
     },
     {
